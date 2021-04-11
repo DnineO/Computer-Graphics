@@ -1,0 +1,37 @@
+
+html{
+    margin: 0px;
+    padding: 0px;
+
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.canvas{
+    /* display: grid;
+    grid-template-columns: repeat(30, 20px);
+    grid-auto-rows: 20px;
+
+    width: 900px;
+    height: 600px;
+
+    image-rendering: pixelated;
+    image-rendering: optimizespeed;
+    background-color: rgb(102, 109, 104); */
+	margin-top: 200px;
+	margin-left: 400px;
+    width: 750px;
+    height: 500px;
+    border: 1px solid black;
+    image-rendering: pixelated;
+    image-rendering: optimizespeed;
+}
+
+
+.btn{
+    margin-top: 20px;
+}

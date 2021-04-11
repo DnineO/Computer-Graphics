@@ -1,0 +1,22 @@
+﻿  ConsoleApplication1.cpp
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(31,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(31,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(32,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(32,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(33,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(33,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(34,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(34,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(35,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(35,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(36,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(36,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(37,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(37,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(38,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(38,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(71,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(71,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(106,14): warning C4101: i: неиспользованная локальная переменная
+G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\ConsoleApplication1.cpp(106,22): warning C4101: bnew: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> G:\GIT\CompGraphics\Computer-Graphics GIT\lab 3 Circle\Debug\ConsoleApplication1.exe
