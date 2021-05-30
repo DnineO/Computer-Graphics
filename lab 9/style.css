@@ -1,0 +1,43 @@
+
+html{
+    margin: 0px;
+    padding: 0px;
+
+    background-color: rgb(109, 169, 221);
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+
+.canvas{
+    width: 500px;
+    height: 500px;
+    border: 0px solid black;
+    image-rendering: pixelated;
+    image-rendering: optimizespeed;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.btn{
+    margin-top: 20px;
+    width: 200px;
+}
+
+#myProgress {
+    width: 500px;
+    background-color: grey;
+}
+  
+#myBar {
+  width: 1%;
+  height: 30px;
+  background-color: green;
+}

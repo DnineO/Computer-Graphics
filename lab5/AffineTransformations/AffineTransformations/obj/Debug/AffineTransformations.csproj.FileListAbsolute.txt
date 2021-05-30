@@ -1,0 +1,30 @@
+D:\прога\C#\AffineTransformations\AffineTransformations\bin\Debug\AffineTransformations.exe.config
+D:\прога\C#\AffineTransformations\AffineTransformations\bin\Debug\AffineTransformations.exe
+D:\прога\C#\AffineTransformations\AffineTransformations\bin\Debug\AffineTransformations.pdb
+D:\прога\C#\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.csprojAssemblyReference.cache
+D:\прога\C#\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.Form1.resources
+D:\прога\C#\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.Properties.Resources.resources
+D:\прога\C#\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.csproj.GenerateResource.cache
+D:\прога\C#\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.csproj.CoreCompileInputs.cache
+D:\прога\C#\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.exe
+D:\прога\C#\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.pdb
+D:\прога\C#\AffineTransformations\AffineTransformations\AffineTransformations\bin\Debug\AffineTransformations.exe.config
+D:\прога\C#\AffineTransformations\AffineTransformations\AffineTransformations\bin\Debug\AffineTransformations.exe
+D:\прога\C#\AffineTransformations\AffineTransformations\AffineTransformations\bin\Debug\AffineTransformations.pdb
+D:\прога\C#\AffineTransformations\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.csprojAssemblyReference.cache
+D:\прога\C#\AffineTransformations\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.Form1.resources
+D:\прога\C#\AffineTransformations\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.Properties.Resources.resources
+D:\прога\C#\AffineTransformations\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.csproj.GenerateResource.cache
+D:\прога\C#\AffineTransformations\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.csproj.CoreCompileInputs.cache
+D:\прога\C#\AffineTransformations\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.exe
+D:\прога\C#\AffineTransformations\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.pdb
+H:\IVT\Computer-Graphics GIT\lab5\AffineTransformations\AffineTransformations\bin\Debug\AffineTransformations.exe.config
+H:\IVT\Computer-Graphics GIT\lab5\AffineTransformations\AffineTransformations\bin\Debug\AffineTransformations.exe
+H:\IVT\Computer-Graphics GIT\lab5\AffineTransformations\AffineTransformations\bin\Debug\AffineTransformations.pdb
+H:\IVT\Computer-Graphics GIT\lab5\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.csprojAssemblyReference.cache
+H:\IVT\Computer-Graphics GIT\lab5\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.Form1.resources
+H:\IVT\Computer-Graphics GIT\lab5\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.Properties.Resources.resources
+H:\IVT\Computer-Graphics GIT\lab5\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.csproj.GenerateResource.cache
+H:\IVT\Computer-Graphics GIT\lab5\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.csproj.CoreCompileInputs.cache
+H:\IVT\Computer-Graphics GIT\lab5\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.exe
+H:\IVT\Computer-Graphics GIT\lab5\AffineTransformations\AffineTransformations\obj\Debug\AffineTransformations.pdb

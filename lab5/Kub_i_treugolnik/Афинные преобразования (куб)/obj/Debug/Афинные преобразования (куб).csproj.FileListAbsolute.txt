@@ -1,0 +1,30 @@
+D:\прога\C#\Афинные преобразования (куб)\Афинные преобразования (куб)\bin\Debug\Афинные преобразования (куб).exe.config
+D:\прога\C#\Афинные преобразования (куб)\Афинные преобразования (куб)\bin\Debug\Афинные преобразования (куб).exe
+D:\прога\C#\Афинные преобразования (куб)\Афинные преобразования (куб)\bin\Debug\Афинные преобразования (куб).pdb
+D:\прога\C#\Афинные преобразования (куб)\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).csprojAssemblyReference.cache
+D:\прога\C#\Афинные преобразования (куб)\Афинные преобразования (куб)\obj\Debug\Афинные_преобразования__куб_.Form1.resources
+D:\прога\C#\Афинные преобразования (куб)\Афинные преобразования (куб)\obj\Debug\Афинные_преобразования__куб_.Properties.Resources.resources
+D:\прога\C#\Афинные преобразования (куб)\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).csproj.GenerateResource.cache
+D:\прога\C#\Афинные преобразования (куб)\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).csproj.CoreCompileInputs.cache
+D:\прога\C#\Афинные преобразования (куб)\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).exe
+D:\прога\C#\Афинные преобразования (куб)\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).pdb
+H:\Win10_CFolders\Downloads\Kub_i_treugolnik\Афинные преобразования (куб)\bin\Debug\Афинные преобразования (куб).exe.config
+H:\Win10_CFolders\Downloads\Kub_i_treugolnik\Афинные преобразования (куб)\bin\Debug\Афинные преобразования (куб).exe
+H:\Win10_CFolders\Downloads\Kub_i_treugolnik\Афинные преобразования (куб)\bin\Debug\Афинные преобразования (куб).pdb
+H:\Win10_CFolders\Downloads\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).csprojAssemblyReference.cache
+H:\Win10_CFolders\Downloads\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные_преобразования__куб_.Form1.resources
+H:\Win10_CFolders\Downloads\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные_преобразования__куб_.Properties.Resources.resources
+H:\Win10_CFolders\Downloads\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).csproj.GenerateResource.cache
+H:\Win10_CFolders\Downloads\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).csproj.CoreCompileInputs.cache
+H:\Win10_CFolders\Downloads\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).exe
+H:\Win10_CFolders\Downloads\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).pdb
+H:\IVT\Computer-Graphics GIT\lab5\Kub_i_treugolnik\Афинные преобразования (куб)\bin\Debug\Афинные преобразования (куб).exe.config
+H:\IVT\Computer-Graphics GIT\lab5\Kub_i_treugolnik\Афинные преобразования (куб)\bin\Debug\Афинные преобразования (куб).exe
+H:\IVT\Computer-Graphics GIT\lab5\Kub_i_treugolnik\Афинные преобразования (куб)\bin\Debug\Афинные преобразования (куб).pdb
+H:\IVT\Computer-Graphics GIT\lab5\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).csprojAssemblyReference.cache
+H:\IVT\Computer-Graphics GIT\lab5\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные_преобразования__куб_.Form1.resources
+H:\IVT\Computer-Graphics GIT\lab5\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные_преобразования__куб_.Properties.Resources.resources
+H:\IVT\Computer-Graphics GIT\lab5\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).csproj.GenerateResource.cache
+H:\IVT\Computer-Graphics GIT\lab5\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).csproj.CoreCompileInputs.cache
+H:\IVT\Computer-Graphics GIT\lab5\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).exe
+H:\IVT\Computer-Graphics GIT\lab5\Kub_i_treugolnik\Афинные преобразования (куб)\obj\Debug\Афинные преобразования (куб).pdb
