@@ -258,7 +258,7 @@ class MainWindow(Window):
         self.canvas_gist3.pack(side=LEFT, fill=BOTH, expand=1, padx=5, pady=5)
         self.canvas_gist4 = Canvas(self.gist_panel, bd=0, highlightthickness=1, highlightbackground="black",
                                    bg="white")
-        self.canvas_gist4.pack(side=LEFT, fill=BOTH, expand=1, padx=5, pady=5)
+        # self.canvas_gist4.pack(side=LEFT, fill=BOTH, expand=1, padx=5, pady=5)
         # =================================================================================================
 
         # ================================== Init ui panel for displaying Image ===========================
